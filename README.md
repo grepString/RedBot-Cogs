@@ -1,4 +1,4 @@
 # Overwatch Cog
-Cog for Twentysix26's Discord bot
+Cog for Twentysix26's "Red" Discord bot
 
-Get your Overwatch stats from casual or competitive play.
+Fetches your Overwatch stats from casual and competitive play using the API @ https://owapi.net
