@@ -1,4 +1,5 @@
-{"NAME": "Overwatch Stats",
+{
+"NAME": "Overwatch Stats",
 "AUTHOR" : "grepString",
 "SHORT": "General purpose cogs",
 "DESCRIPTION" : "Fetch Overwatch stats from general or competitive play."
