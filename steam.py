@@ -19,5 +19,13 @@ class Steam:
         url = "steam://connect/"+ip
         await self.bot.say(url)
 
+    @commands.command()
+    async def browser(self):
+        """Opens your Steam server browser
+        """
+
+        url = "steam://open/servers"
+        await self.bot.say(url)
+
 def setup(bot):
     bot.add_cog(Steam(bot))
