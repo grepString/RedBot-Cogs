@@ -6,9 +6,7 @@ Fetches your Overwatch stats from casual and competitive play using the API @ ht
 
 ### Steam.py
 Creates a Steam connect URL to connect to game servers
-
-/////////////////////////////////////////////////////////////////
-
+<hr>
 To use, place file in the cogs directory, then load it with:
 
 `!load cogName` then `!help` to view updated commands.
