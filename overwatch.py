@@ -41,7 +41,6 @@ class Overwatch:
         totalobjTime = float(url.json()["game_stats"]["objective_time"])
         totalobjKills = int(url.json()["game_stats"]["objective_kills"])
         totalFire = float(url.json()["game_stats"]["time_spent_on_fire"])
-        #totalFire = asplit[0] + ':' + str(int(float(asplit[1]) *  60))
         goldMedals = int(url.json()["game_stats"]["medals_gold"])
         silverMedals = int(url.json()["game_stats"]["medals_silver"])
         bronzeMedals = int(url.json()["game_stats"]["medals_bronze"])
